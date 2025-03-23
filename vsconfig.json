@@ -1,0 +1,63 @@
+{
+    "window.zoomLevel": 1.0,
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.tabSize": 4,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 2,
+    "editor.rulers": [80, 120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+
+    "workbench.activityBar.location": "hidden",
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.horizontal": "hidden",
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.ts": "${capture}.js",
+        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+        "*.jsx": "${capture}.js",
+        "*.tsx": "${capture}.ts",
+        "tsconfig.json": "tsconfig.*.json",
+        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, eslint*, vite*, .gitignore"
+    },
+
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "gutter",
+    "git.openRepositoryInParentFolders": "always",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.showSlider": "always",
+    "diffEditor.hideUnchangedRegions.enabled": true,
+
+    // atualizações: sexta-feira, 31 jan 2025
+    // Aula do projeto Página de Receitas (Mayk Brito)
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "editor.glyphMargin": false,
+    "files.autoSave": "afterDelay",
+
+    // ZEN MODE
+    // atualizações: sexta-feira, 31 jan 2025
+    // Aula do projeto Página de Receitas (Mayk Brito)
+    "zenMode.fullScreen": false,
+    "zenMode.centerLayout": true,
+    "zenMode.showTabs": "single",
+
+    // SIDE BAR
+    // atualização de 19/02/25
+    "workbench.sideBar.location": "right"
+}
