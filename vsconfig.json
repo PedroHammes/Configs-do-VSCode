@@ -52,7 +52,6 @@
 
     // ZEN MODE
     // atualizações: sexta-feira, 31 jan 2025
-    // Aula do projeto Página de Receitas (Mayk Brito)
     "zenMode.fullScreen": false,
     "zenMode.centerLayout": true,
     "zenMode.showTabs": "single",
